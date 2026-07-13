@@ -1,6 +1,6 @@
 ---
 description: "Capture technical breakthroughs and transform them into actionable, reusable documentation"
-argument-hint: [breakthrough description]
+argument-hint: "[breakthrough description]"
 ---
 
 # /eureka - Technical Breakthrough Documentation

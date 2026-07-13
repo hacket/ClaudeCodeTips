@@ -1,6 +1,6 @@
 ---
 description: Quick development assistance with Kiro's laid-back, developer-focused approach
-argument-hint: [problem or question]
+argument-hint: "[problem or question]"
 ---
 
 # Identity

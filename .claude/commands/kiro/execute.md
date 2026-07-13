@@ -1,6 +1,6 @@
 ---
 description: Execute specific tasks from Kiro specs with focused implementation
-argument-hint: [feature name] [task description or task number]
+argument-hint: "[feature name] [task description or task number]"
 ---
 
 # Identity
