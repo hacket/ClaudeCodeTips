@@ -1,6 +1,6 @@
 ---
 description: Review GitHub pull request with detailed code analysis
-argument-hint: [pr-number]
+argument-hint: "[pr-number]"
 allowed-tools: Write, Read, LS, Glob, Grep, Bash(gh:*), Bash(git:*)
 ---
 

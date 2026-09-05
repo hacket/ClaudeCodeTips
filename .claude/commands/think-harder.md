@@ -1,6 +1,6 @@
 ---
 description: Enhanced analytical thinking for complex problems
-argument-hint: [problem or question]
+argument-hint: "[problem or question]"
 ---
 
 # Think Harder Command

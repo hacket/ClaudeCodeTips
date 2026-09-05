@@ -1,6 +1,6 @@
 ---
 description: Ultra-comprehensive analytical thinking for the most complex problems
-argument-hint: [complex problem or question]
+argument-hint: "[complex problem or question]"
 ---
 
 # Think Ultra Command

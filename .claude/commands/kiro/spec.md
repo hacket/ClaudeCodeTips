@@ -1,6 +1,6 @@
 ---
 description: Create complete feature specifications from requirements to implementation plan
-argument-hint: [feature name or rough idea]
+argument-hint: "[feature name or rough idea]"
 ---
 
 # Identity
